@@ -1,8 +1,6 @@
 YEEAH BUDDY 👋
 
-<div id="header" align="center">
-  <img src="https://tenor.com/f0Yw0TiUO0v.gif" width="100"/>
-</div>
+<img src="https://img.championat.com/s/735x490/news/big/j/n/durov-otkazalsja-ot-edy-i-alkogolja-poehala-krysha-ili-mozgi-vstali-na-mesto_15604007831083690418.jpg" alt=""/>
 
 - 🌱 I’m currently learning asp.net
 - 💬 Ask me about wex
