@@ -1,4 +1,7 @@
 YEEAH BUDDY 👋
+<div id="header" align="center">
+  <img src="https://tenor.com/f0Yw0TiUO0v.gif" width="100"/>
+</div>
 - 🌱 I’m currently learning asp.net
 - 💬 Ask me about wex
 - 📫 How to reach me: 
