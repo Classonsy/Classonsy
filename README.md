@@ -7,7 +7,7 @@ YEEAH BUDDY 👋
 - 🌱 I’m currently learning asp.net
 - 💬 Ask me about wex
 - 📫 How to reach me: 
-- telegram: @OH_HFX or @MARCELINEIO
+- telegram: @OH_HFX
 - VK: @unknownfsb
 <!--
 **Classonsy/Classonsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
