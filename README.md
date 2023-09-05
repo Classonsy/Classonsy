@@ -3,7 +3,7 @@ YEEAH BUDDY 👋
   <img src="https://media.tenor.com/yvawiEDfYcgAAAAC/pavel-durov.gif" width="600" height="300"/>
 </div>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-### :woman_technologist: About Me :
+
 - 🌱 I’m currently learning asp.net
 - 💬 Ask me about wex
 - 📫 How to reach me: 
