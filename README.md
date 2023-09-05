@@ -1,4 +1,4 @@
-### Hi there 👋
+YEEAH BUDDY 👋
 - 🌱 I’m currently learning asp.net
 - 💬 Ask me about wex
 - 📫 How to reach me: 
